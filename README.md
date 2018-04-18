@@ -1,7 +1,7 @@
 # :fire: API Authentication with NodeJS and JWT ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 Belajar Membuat Authentication dengan JWT
-![RESTful API design with Node.js](https://cdn.scotch.io/scotchy-uploads/2014/11/nodejs-token-based-authentication.png "RESTful API design with Node.js")
+![API Authentication with NodeJS and JWT](https://cdn.scotch.io/scotchy-uploads/2014/11/nodejs-token-based-authentication.png "API Authentication with NodeJS and JWT")
 
 ## Penggunaan
 
