@@ -1,0 +1,28 @@
+{
+  "name": "api-auth-jwt",
+  "version": "1.0.0",
+  "description": "JWT Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "./node_modules/.bin/nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indragunawanrtf/api-auth-jwt.git"
+  },
+  "author": "Indra Gunawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indragunawanrtf/api-auth-jwt/issues"
+  },
+  "homepage": "https://github.com/indragunawanrtf/api-auth-jwt#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "nodemon": "^1.17.3",
+    "npm": "^5.8.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
